@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE124798-823A-4A7B-80E0-F2AFD4F8F744}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\users\\uranium_cosmos\\desktop\\proyecto v7\\sistemainventariov6\\sistemainventariov6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE124798-823A-4A7B-80E0-F2AFD4F8F744}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE124798-823A-4A7B-80E0-F2AFD4F8F744}|SistemaInventarioV6\\SistemaInventarioV6.csproj|c:\\users\\uranium_cosmos\\desktop\\proyecto v7\\sistemainventariov6\\sistemainventariov6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE124798-823A-4A7B-80E0-F2AFD4F8F744}|SistemaInventarioV6\\SistemaInventarioV6.csproj|solutionrelative:sistemainventariov6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\appsettings.json",
+              "RelativeToolTip": "SistemaInventarioV6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T00:17:13.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventarioV6\\Program.cs",
+              "ToolTip": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\Program.cs",
+              "RelativeToolTip": "SistemaInventarioV6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:17:05.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

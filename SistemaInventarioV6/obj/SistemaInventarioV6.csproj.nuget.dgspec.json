@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj",
+        "projectName": "SistemaInventarioV6",
+        "projectPath": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\SistemaInventarioV6.csproj",
+        "packagesPath": "C:\\Users\\Uranium_Cosmos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Uranium_Cosmos\\Desktop\\Proyecto V7\\SistemaInventarioV6\\SistemaInventarioV6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Uranium_Cosmos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
